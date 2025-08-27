@@ -29,3 +29,6 @@ git clone https://github.com/<username>/<repo>.git
 cd laravel-password-generator
 composer install
 
+Copy environment file:
+
+cp .env.example .env
