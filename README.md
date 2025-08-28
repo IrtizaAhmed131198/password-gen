@@ -28,7 +28,22 @@ Clone the repo and install dependencies:
 git clone https://github.com/<username>/<repo>.git
 cd laravel-password-generator
 composer install
+```
 
 Copy environment file:
-
+```bash
 cp .env.example .env
+```
+
+Generate app key:
+```bash
+php artisan key:generate
+```
+
+Run the server:
+```bash
+php artisan serve
+```
+
+The site will be available at:
+👉 http://127.0.0.1:8000
