@@ -47,3 +47,7 @@ php artisan serve
 
 The site will be available at:
 👉 http://127.0.0.1:8000
+
+📸 Screenshot
+<img width="1241" height="946" alt="image" src="https://github.com/user-attachments/assets/d79b3887-7fc1-4017-923f-c6fbddcce015" />
+
